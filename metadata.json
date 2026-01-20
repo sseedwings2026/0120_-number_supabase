@@ -1,0 +1,5 @@
+{
+  "name": "Number Guessing Pro",
+  "description": "A high-stakes number guessing game with real-time leaderboard tracking and attempt history, powered by Supabase.",
+  "requestFramePermissions": []
+}
